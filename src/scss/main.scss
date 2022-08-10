@@ -1,0 +1,14 @@
+@import "./components/carousel.scss";
+html,
+body {
+  height: 100%;
+}
+ul {
+  list-style: none;
+  padding: 0 !important;
+}
+.wrapper {
+  height: 100%;
+  background-color: rgb(143, 251, 143);
+  transition: background-color 0.5s;
+}
